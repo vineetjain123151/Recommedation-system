@@ -1,2 +1,2 @@
-# Recommedation system
- Recommedation system using apriori
+# Recommendation system
+ Recommendation system using apriori
